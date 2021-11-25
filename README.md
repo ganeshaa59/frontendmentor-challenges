@@ -1,1 +1,1 @@
-# frontendmentor-projeccts
+# frontendmentor-projects
