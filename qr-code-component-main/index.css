@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: hsl(212, 45%, 89%);
+    font-family: 'Karla', sans-serif;
+    font-family: 'Outfit', sans-serif;
+}
+
+section{
+    background-color: white;
+    width: 350px;
+    height: 480px;
+    margin: auto;
+    margin-top:50px;
+    margin-bottom:50px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 23px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+img{
+    border-radius: 20px;
+}
+
+h2,p{
+    padding:0 19px;
+}
+h2{
+    margin-bottom: 2px;
+    color: hsl(218, 44%, 22%);
+}
+p{
+    padding: 0 40px;
+    color: hsl(220, 15%, 55%);
+}
+
+
+
